@@ -1,10 +1,9 @@
 # RandomFruit
 Press Button, Get Rare Fruit.
 ----
-This app was made early in my process of learning SwiftUI.
+This app was made while learning SwiftUI and Kotlin.
 
-It almost definitely is not the ideal way to code an app like this.
- It might be better, for example, to make each fruit conform to an object.
+Everything is hardcoded, so it could be improved upon in that regard.
 
-Regardless, I'm not changing this app again anytime soon.
+I'm not changing this app again anytime soon, though.
  It is here for reference and preservation.
