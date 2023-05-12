@@ -11,4 +11,4 @@ I'm not changing this app again anytime soon, though.
 Screenshots
 --
  
-<img src="/Screenshots/common.png" width="25%" height="25%">
+<img src="/Screenshots/common.png" width="25%" height="25%">  <img src="/Screenshots/rare.png" width="24.75%" height="24.75%">  <img src="/Screenshots/epic.png" width="24.9%" height="24.9%">
