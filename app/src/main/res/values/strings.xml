@@ -1,0 +1,45 @@
+<resources>
+
+    <string name="app_name">Random Fruit</string>
+    <string name="generate_fruit">Generate Fruit</string>
+
+    <string name="oneStar">⭐️</string>
+    <string name="apple">🍎</string>
+    <string name="orange">🍊</string>
+    <string name="peach">🍑</string>
+    <string name="strawberry">🍓</string>
+    <string name="grapes">🍇</string>
+    <string name="blueberries">🫐</string>
+    <string name="cherries">🍒</string>
+    <string name="pear">🍐</string>
+
+    <string name="twoStar">⭐️⭐</string>
+    <string name="greenApple">🍏</string>
+    <string name="lemon">🍋</string>
+    <string name="watermelon">🍉</string>
+    <string name="banana">🍌</string>
+    <string name="melon">🍈</string>
+
+    <string name="threeStar">⭐⭐⭐️</string>
+    <string name="pineapple">🍍</string>
+    <string name="kiwi">🥝</string>
+    <string name="tomato">🍅</string>
+    <string name="mango">🥭</string>
+    <string name="avocado">🥑</string>
+
+    <string name="fourStar">⭐️⭐⭐⭐</string>
+    <string name="corn">🌽</string>
+    <string name="potato">🥔</string>
+    <string name="cheese">🧀</string>
+    <string name="chili">🌶</string>
+
+    <string name="fiveStar">⭐️⭐⭐⭐⭐</string>
+    <string name="mushroom">🍄</string>
+    <string name="peanuts">🥜</string>
+    <string name="onion">🧅</string>
+
+    <string name="sixStar">⭐️⭐⭐⭐⭐⭐</string>
+    <string name="burger">🍔</string>
+    <string name="lollipop">🍭</string>
+    <string name="donut">🍩</string>
+</resources>
