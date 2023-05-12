@@ -10,5 +10,5 @@ I'm not changing this app again anytime soon, though.
 Screenshots
 --
  
-<img src="/Screenshots/common.png" width="25%" height="25%">  <img src="/Screenshots/uncommon.png" width="25%" height="25%">  <img src="/Screenshots/rare.png" width="25%" height="25%">
-<img src="/Screenshots/very_rare.png" width="25%" height="25%">  <img src="/Screenshots/epic.png" width="25%" height="25%">  <img src="/Screenshots/legendary.png" width="25%" height="25%">
+<img src="/Screenshots/common.png" width="24.9%" height="24.9%">  <img src="/Screenshots/uncommon.png" width="25.5%" height="25.5%">  <img src="/Screenshots/rare.png" width="25%" height="25%">
+<img src="/Screenshots/very_rare.png" width="25%" height="25%">  <img src="/Screenshots/epic.png" width="25%" height="25%">  <img src="/Screenshots/legendary.png" width="24.8%" height="24.8%">
