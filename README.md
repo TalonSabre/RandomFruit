@@ -1,4 +1,4 @@
-This app was made while learning SwiftUI.
+This app was built in XCode while learning SwiftUI.
 
 I made an android version as well, found in the [android branch](https://github.com/TalonSabre/RandomFruit/tree/android).
 
