@@ -1,7 +1,10 @@
-This is the android version, built in Android Studio, coded with Kotlin.
+This is the android version, built in Android Studio, coded while learning Kotlin.
  The iOS build is in the [iOS branch](https://github.com/TalonSabre/RandomFruit/tree/iOS).
 
-This app was made while learning Kotlin.
+All code can be found in the [MainActivity](/app/src/main/java/com/example/randomfruit/MainActivity.kt) file.
+
+The layout is in the [activity_main](/app/src/main/res/layout/activity_main.xml) file.
+ The emojis appeared transparent, but adding a second layer fixed that.
 
 Everything is hardcoded in this version as well, and can be done better.
 
