@@ -1,6 +1,7 @@
 This app was built in XCode while learning SwiftUI.
+ I made an android version as well, found in the [android branch](https://github.com/TalonSabre/RandomFruit/tree/android).
 
-I made an android version as well, found in the [android branch](https://github.com/TalonSabre/RandomFruit/tree/android).
+All code can be found in the [ContentView](/Fruits/ContentView.swift) file.
 
 Everything is hardcoded, so it could be improved upon in that regard.
 
